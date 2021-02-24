@@ -1,1 +1,12 @@
-# IP3
+# PROJECT NAME:
+## IP3
+# PROJECT DESCRIPTION
+# AUTHOR'S INFORMATION
+### [ALEX MUHIA](https://github.com/Theo-44/IP3.git)
+# TECHNOLOGIES USED
++ CSS
++ JAVASCRIPT
++ HTML
+# CONTACT: 000-000-000 
+
+[LICENSE](/home/alex/Documents/moringa-school-projects/Week-III/IP3/LICENSE)
