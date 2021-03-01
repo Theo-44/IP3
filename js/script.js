@@ -61,7 +61,11 @@ $(function () {
             let email = $("input#email").val();
             let message = $("textarea#message").val();
 
-            if ($("input#name").val() && $("input#email").val()){!");
+            if ($("input#name").val() && $("input#email").val()){
+                alert ("Hey " + name + ", Thanks for filling in your details, we'll reach out to you shortly...Have a good one");
+            }
+            else {
+                alert("Kindly provide your correct name and email!");
             }
 
         });
