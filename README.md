@@ -5,6 +5,7 @@
 + CSS
 + JAVASCRIPT
 + HTML
-# CONTACT: 000-000-000 
+## [WHAT WE DO](/home/alex/Documents/moringa-school-projects/Week-III/IP3/What we do descriptions.md)
+### CONTACT: 000-000-000 
 
 [LICENSE](/home/alex/Documents/moringa-school-projects/Week-III/IP3/LICENSE)
